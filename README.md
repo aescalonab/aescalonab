@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy América Escalona</a>👋</h1>
 </div>
-<img src="https://imgur.com/KImtasS">
+<img src="https://imgur.com/KImtasS.png">
 <br>
 <div align="center">
 	<img src="https://komarev.com/ghpvc/?username=aescalonab&color=brightgreen&style=plastic" alt="Profile views"/>
