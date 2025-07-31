@@ -35,12 +35,13 @@
 ![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white)
-![GoogleColab](https://img.shields.io/badge/Google.Colab-F9AB00?style=plastic&logo=Google.Colab&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=C++&logoColor=white)
+![GoogleColab](https://img.shields.io/badge/Google.Colab-F9AB00?style=plastic&logo=GoogleColab&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white)
 
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=Postman&logoColor=white)
+![SQLDev](https://img.shields.io/badge/SQLDev-4479A1?style=plastic&logo=MySQL&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=plastic&logo=Datadog&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-004480?style=plastic&logo=Photoshop&logoColor=white)
