@@ -8,10 +8,10 @@
 ### Hi there 👋
 <div>
 <ul>
-<li><b>⭐ Name:  </b> América Escalona </li>
-<li><b>🎓 Communication and Electronics Engineering @ESIMEZ-IPN<br></li>
-<li><b>📍 Location:  </b> Mexico City 🇲🇽 </li>	
-<li><b>📣 Languages: </b>  English & Spanish </li>
+<li><b>⭐ Name: América Escalona </b></li>
+<li><b>🎓 Communication and Electronics Engineering  @ESIMEZ-IPN </br></li>
+<li><b>📍 Location:   Mexico City </b> 🇲🇽 </li>	
+<li><b>📣 Languages:   English & Spanish </b></li>
 <li><b>👷‍♀️ Woman in STEM  </b> </li>
 <li><b>🕹️ Casual gamer  </b> </li>
 
@@ -46,7 +46,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-004480?style=plastic&logo=Photoshop&logoColor=white)
 ![Illustrator ](https://img.shields.io/badge/Illustrator-F24E1E?style=plastic&logo=Illustrator&logoColor=white)
-
 
 </div>
 
